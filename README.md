@@ -62,7 +62,8 @@ This project analyzes track and album data for **Diamond Platnumz**, a prominent
 
 ```
 ├── notebooks/
-│   ├── Diamond_Platnumz_Spotify_Analysis.ipynb  # Main analysis notebook for Cola
+│   ├── Diamond_Platnumz_Spotify_Analysis.ipynb  # Main analysis notebook for Colab
+
 ├── README.md                 # Project overview
 └── requirements.txt          # Python dependencies (for local use)
 ```
